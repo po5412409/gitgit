@@ -1,0 +1,2 @@
+graph TD
+  Mermaid --> Diagram
